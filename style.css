@@ -1,0 +1,105 @@
+*{
+    box-sizing: border-box;
+    color: aliceblue;
+    font-family: cursive;
+}
+.navbar{
+    background-color: black;
+    overflow: auto;
+    padding-bottom: 14px;
+    border-radius: 10px;
+}
+ul li a{
+    text-decoration: none;
+    padding: 15px;
+}
+ul li{
+    float: right;
+    list-style: none;
+}
+div ul li p{
+    float: left;
+}
+
+ul img{
+    float: left;
+    margin:0px 15px;
+    border-radius: 30px;
+}
+li a:hover{
+    color: deepskyblue;
+}
+
+.container1{
+    background-image: url(landjp.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#cont1 {
+    padding: 170px;
+    text-align: center;
+    margin-top: 10px;
+    border-radius: 20px;
+   
+}
+h3{
+   background-color: rgb(31, 68, 124);
+   padding: 20px;
+   text-align: center;
+   overflow: auto;
+   color: rgb(255, 255, 255);
+   margin-left: 15px;
+   margin-right: 15px;
+}
+
+.common{
+    background-color: rgb(231, 231, 227);
+    color: black;
+    float: left;
+    border: solid black 1px;
+    text-align: center;
+    border-radius: 10px;
+}
+#serve1{
+    margin: 15px;
+    padding: 15px;
+    width: 22%;
+
+}
+#serve2{
+    margin: 15px;
+    padding: 15px;
+    width: 22%;
+}
+#serve3{
+    margin: 15px;
+    padding: 15px;
+    width: 22%;
+}
+#serve4{
+    margin: 15px;
+    padding: 15px;
+    width: 22%;
+}
+h4
+{
+    text-align: center;
+    color: black;
+}
+#foot{
+    background-color: black;
+    overflow: auto;
+    padding: 50px;
+}
+
+.footcom li{
+    list-style: none;
+    margin: 2px;
+    float: left;
+}
+.footcom li a{
+    text-decoration: none;
+}
+
+
